@@ -1,9 +1,10 @@
 .heading {
-    color: #f33;
+    color: red;
+    background-color: blue;
   }
 .CapitalPara {
     background-color: beige;
 }
 #HeadingBG{
-  background-color: rgb(215, 25, 152);
+  background-color: pink;
 }
