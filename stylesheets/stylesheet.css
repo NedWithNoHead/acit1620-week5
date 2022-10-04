@@ -1,4 +1,4 @@
-#HeadingBG{
+/* #HeadingBG{
   background-color: pink;
 }
 .heading {
@@ -7,4 +7,14 @@
   }
 .CapitalPara {
     background-color: beige;
+} */
+
+p {
+  margin: 5px;
+  border: 10px ridge lightgreen;
+}
+.span {
+  padding: 0px 5px;
+  border-top: 2px solid black;
+  border-bottom: 4px solid gray;
 }
