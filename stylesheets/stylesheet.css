@@ -1,6 +1,10 @@
+#HeadingBG{
+  background-color: pink;
+}
 .heading {
-    color: #f33;
+    color: red;
+    background-color: blue;
   }
-  . paragraph1 {
+.CapitalPara {
     background-color: beige;
 }
